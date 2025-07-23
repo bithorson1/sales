@@ -22,7 +22,7 @@ This project is a Django-based application for managing sales data. It includes 
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/sales-project.git
+git clone https://github.com/bithorson1/sales.git
 cd sales-project
 
 2. Create a Virtual Environment:
